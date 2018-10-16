@@ -1,0 +1,30 @@
+﻿CustomerID,CustomerName,ContactName,ContactJobTitle,PhoneNum,Address,City,State,ZIP,Country
+1,Company A,Anna Bedecs,Owner,(123)555-0100,123 1st Street,Seattle,WA,99999,USA
+2,Company B,Antonio Gratacos Solsona,Owner,(123)555-0100,123 2nd Street,Boston,MA,99999,USA
+3,Company C,Thomas Axen,Purchasing Representative,(123)555-0100,123 3rd Street,Los Angelas,CA,99999,USA
+4,Company D,Christina Lee,Purchasing Manager,(123)555-0100,123 4th Street,New York,NY,99999,USA
+5,Company E,Martin O’Donnell,Owner,(123)555-0100,123 5th Street,Minneapolis,MN,99999,USA
+6,Company F,Francisco Pérez-Olaeta,Purchasing Manager,(123)555-0100,123 6th Street,Milwaukee,WI,99999,USA
+7,Company G,Ming-Yang Xie,Owner,(123)555-0100,123 7th Street,Boise,ID,99999,USA
+8,Company H,Elizabeth Andersen,Purchasing Representative,(123)555-0100,123 8th Street,Portland,OR,99999,USA
+9,Company I,Sven Mortensen,Purchasing Manager,(123)555-0100,123 9th Street,Salt Lake City,UT,99999,USA
+10,Company J,Roland Wacker,Purchasing Manager,(123)555-0100,123 10th Street,Chicago,IL,99999,USA
+11,Company K,Peter Krschne,Purchasing Manager,(123)555-0100,123 11th Street,Miami,FL,99999,USA
+12,Company L,John Edwards,Purchasing Manager,(123)555-0100,123 12th Street,Las Vegas,NV,99999,USA
+13,Company M,Andre Ludick,Purchasing Representative,(123)555-0100,456 13th Street,Memphis,TN,99999,USA
+14,Company N,Carlos Grilo,Purchasing Representative,(123)555-0100,456 14th Street,Denver,CO,99999,USA
+15,Company O,Helena Kupkova,Purchasing Manager,(123)555-0100,456 15th Street,Honolulu,HI,99999,USA
+16,Company P,Daniel Goldschmidt,Purchasing Representative,(123)555-0100,456 16th Street,San Francisco,CA,99999,USA
+17,Company Q,Jean Philippe Bagel,Owner,(123)555-0100,456 17th Street,Seattle,WA,99999,USA
+18,Company R,Catherine Autier Miconi,Purchasing Representative,(123)555-0100,456 18th Street,Boston,MA,99999,USA
+19,Company S,Alexander Eggerer,Accounting Assistant,(123)555-0100,789 19th Street,Los Angelas,CA,99999,USA
+20,Company T,George Li,Purchasing Manager,(123)555-0100,789 20th Street,New York,NY,99999,USA
+21,Company U,Bernard Tham,Accounting Manager,(123)555-0100,789 21th Street,Minneapolis,MN,99999,USA
+22,Company V,Luciana Ramos,Purchasing Assistant,(123)555-0100,789 22th Street,Milwaukee,WI,99999,USA
+23,Company W,Michael Entin,Purchasing Manager,(123)555-0100,789 23th Street,Portland,OR,99999,USA
+24,Company X,Jonas Hasselberg,Owner,(123)555-0100,789 24th Street,Salt Lake City,UT,99999,USA
+25,Company Y,John Rodman,Purchasing Manager,(123)555-0100,789 25th Street,Chicago,IL,99999,USA
+26,Company Z,Run Liu,Accounting Assistant,(123)555-0100,789 26th Street,Miami,FL,99999,USA
+27,Company AA,Karen Toh,Purchasing Manager,(123)555-0100,789 27th Street,Las Vegas,NV,99999,USA
+28,Company BB,Amritansh Raghav,Purchasing Manager,(123)555-0100,789 28th Street,Memphis,TN,99999,USA
+29,Company CC,Soo Jung Lee,Purchasing Manager,(123)555-0100,789 29th Street,Denver,CO,99999,USA

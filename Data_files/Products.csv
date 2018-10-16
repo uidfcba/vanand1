@@ -1,0 +1,46 @@
+ProductCode,ProductName,StandardCost,ListPrice,QtyPerUnit,Category
+NWTB-1,Northwind Traders Chai,13.50,18.00,10 boxes x 20 bags,Beverages
+NWTB-34,Northwind Traders Beer,10.50,14.00,24 - 12 oz bottles,Beverages
+NWTB-43,Northwind Traders Coffee,34.50,46.00,16 - 500 g tins,Beverages
+NWTB-81,Northwind Traders Green Tea,2.00,2.99,20 bags per box,Beverages
+NWTB-87,Northwind Traders Tea,2.00,4.00,100 count per box,Beverages
+NWTBGM-19,Northwind Traders Chocolate Biscuits Mix,6.90,9.20,10 boxes x 12 pieces,Baked Goods & Mixes
+NWTBGM-21,Northwind Traders Scones,7.50,10.00,24 pkgs. x 4 pieces,Baked Goods & Mixes
+NWTBGM-85,Northwind Traders Brownie Mix,9.00,12.49,3 boxes,Baked Goods & Mixes
+NWTBGM-86,Northwind Traders Cake Mix,10.50,15.99,4 boxes,Baked Goods & Mixes
+NWTC-82,Northwind Traders Granola,2.00,4.00,,Cereal
+NWTC-83,Northwind Traders Hot Cereal,3.00,5.00,,Cereal
+NWTCA-48,Northwind Traders Chocolate,9.56,12.75,10 pkgs,Candy
+NWTCFV-17,Northwind Traders Fruit Cocktail,29.25,39.00,15.25 OZ,Canned Fruit & Vegetables
+NWTCFV-88,Northwind Traders Pears,1.00,1.30,15.25 OZ,Canned Fruit & Vegetables
+NWTCFV-89,Northwind Traders Peaches,1.00,1.50,15.25 OZ,Canned Fruit & Vegetables
+NWTCFV-90,Northwind Traders Pineapple,1.00,1.80,15.25 OZ,Canned Fruit & Vegetables
+NWTCFV-91,Northwind Traders Cherry Pie Filling,1.00,2.00,15.25 OZ,Canned Fruit & Vegetables
+NWTCFV-92,Northwind Traders Green Beans,1.00,1.20,14.5 OZ,Canned Fruit & Vegetables
+NWTCFV-93,Northwind Traders Corn,1.00,1.20,14.5 OZ,Canned Fruit & Vegetables
+NWTCFV-94,Northwind Traders Peas,1.00,1.50,14.5 OZ,Canned Fruit & Vegetables
+NWTCM-40,Northwind Traders Crab Meat,13.80,18.40,24 - 4 oz tins,Canned Meat
+NWTCM-95,Northwind Traders Tuna Fish,0.50,2.00,5 oz,Canned Meat
+NWTCM-96,Northwind Traders Smoked Salmon,2.00,4.00,5 oz,Canned Meat
+NWTCO-3,Northwind Traders Syrup,7.50,10.00,12 - 550 ml bottles,Condiments
+NWTCO-4,Northwind Traders Cajun Seasoning,16.50,22.00,48 - 6 oz jars,Condiments
+NWTCO-77,Northwind Traders Mustard,9.75,13.00,12 boxes,Condiments
+NWTCS-83,Northwind Traders Potato Chips,0.50,1.80,,"Chips, Snacks"
+NWTD-72,Northwind Traders Mozzarella,26.10,34.80,24 - 200 g pkgs.,Dairy Products
+NWTDFN-14,Northwind Traders Walnuts,17.44,23.25,40 - 100 g pkgs.,Dried Fruit & Nuts
+NWTDFN-51,Northwind Traders Dried Apples,39.75,53.00,50 - 300 g pkgs.,Dried Fruit & Nuts
+NWTDFN-7,Northwind Traders Dried Pears,22.50,30.00,12 - 1 lb pkgs.,Dried Fruit & Nuts
+NWTDFN-74,Northwind Traders Almonds,7.50,10.00,5 kg pkg.,Dried Fruit & Nuts
+NWTDFN-80,Northwind Traders Dried Plums,3.00,3.50,1 lb bag,Dried Fruit & Nuts
+NWTG-52,Northwind Traders Long Grain Rice,5.25,7.00,16 - 2 kg boxes,Grains
+NWTJP-6,Northwind Traders Boysenberry Spread,18.75,25.00,12 - 8 oz jars,"Jams, Preserves"
+NWTJP-7,Northwind Traders Marmalade,60.75,81.00,30 gift boxes,"Jams, Preserves"
+NWTO-5,Northwind Traders Olive Oil,16.01,21.35,36 boxes,Oil
+NWTP-56,Northwind Traders Gnocchi,28.50,38.00,24 - 250 g pkgs.,Pasta
+NWTP-57,Northwind Traders Ravioli,14.63,19.50,24 - 250 g pkgs.,Pasta
+NWTS-65,Northwind Traders Hot Pepper Sauce,15.79,21.05,32 - 8 oz bottles,Sauces
+NWTS-66,Northwind Traders Tomato Sauce,12.75,17.00,24 - 8 oz jars,Sauces
+NWTS-8,Northwind Traders Curry Sauce,30.00,40.00,12 - 12 oz jars,Sauces
+NWTSO-41,Northwind Traders Clam Chowder,7.24,9.65,12 - 12 oz cans,Soups
+NWTSO-98,Northwind Traders Vegetable Soup,1.00,1.89,,Soups
+NWTSO-99,Northwind Traders Chicken Soup,1.00,1.95,,Soups
