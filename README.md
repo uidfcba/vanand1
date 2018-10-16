@@ -2,10 +2,9 @@
 This case introduces accounting students to databases. Practicing accountants interact with data from databases whether they realize it or not. Auditors and preparers of financial statements should therefore understand how accounting data is structured and stored in databases. 
 
 ## Author Information
-Vic Anand, Ph.D.
-Assistant Professor of Accountancy – University of Illinois at Urbana-Champaign
+Vic Anand, Ph.D.  
+Assistant Professor of Accountancy – University of Illinois at Urbana-Champaign  
 R.C. Evans Data Analytics Fellow - University of Illinois-Deloitte Foundation Center for Business Analytics<sup>[*]</sup>
-
 
 ## Description of Files in the Repository
  - *Databases_Case.md*: The case document in Markdown format.
