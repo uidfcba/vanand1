@@ -1,5 +1,14 @@
 # An Introduction to Databases for Accountants
-This case introduces accounting students to databases. Practicing accountants interact with data from databases whether they realize it or not. Auditors and preparers of financial statements should therefore understand how accounting data is structured and stored in databases. 
+The purpose of this case is to introduce accounting students to databases. Practicing accountants interact with data from databases whether they realize it or not. For example, transaction-level data captured in accounting systems is stored in databases. Auditors and preparers of financial statements should therefore understand how accounting data is structured and stored in databases. 
+
+In this case, you will assume the role of a preparer of financial statements. You will create a database to store transaction-level data for a fictitious company and then compute some common accounting metrics like revenue and cost of goods sold. Within the database, you will create separate tables to store customer information and customers’ orders. You will also create a table to store information about the company’s products. Finally, you will retrieve data from these tables, merge that data, and transform it into useful numbers like revenue or cost of goods sold.
+
+## Learning Objectives
+ * Learn how transaction-level accounting data should be stored.
+ * Gain experience with the design of relational databases.
+ * Write basic SQL queries to create tables, retrieve data from one table, merge data from multiple tables, aggregate and filter data from one or more tables.
+ * Integrate database skills with Python skills by using the SQLite and Pandas packages.
+ * Take the perspective of a preparer of financial statements. Retrieve, aggregate, and report financial statement line items that are created from transaction-level data.
 
 ## Author Information
 Vic Anand, Ph.D.  
