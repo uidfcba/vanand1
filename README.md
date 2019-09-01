@@ -1,14 +1,21 @@
 # An Introduction to Databases for Accountants
-The purpose of this case is to introduce accounting students to databases. Practicing accountants interact with data from databases whether they realize it or not. For example, transaction-level data captured in accounting systems is stored in databases. Auditors and preparers of financial statements should therefore understand how accounting data is structured and stored in databases. 
+One of the important data analytics tasks that an accountant will undertake is merging data from multiple sources. This need might arise when, for example, the accountant wishes to compute profit per customer (i.e. customer profitability analysis) or profit per cost object. Typically, the accountant must retrieve transaction-level data from multiple sources and then merge this data before analyzing it further. Transaction-level data is often stored in databases. Thus, practicing accountants interact with data from databases whether they realize it or not.
 
-In this case, you will assume the role of a preparer of financial statements. You will create a database to store transaction-level data for a fictitious company and then compute some common accounting metrics like revenue and cost of goods sold. Within the database, you will create separate tables to store customer information and customers’ orders. You will also create a table to store information about the company’s products. Finally, you will retrieve data from these tables, merge that data, and transform it into useful numbers like revenue or cost of goods sold.
+The purpose of this case is to introduce accounting students to databases. In this case, you will assume the role of a preparer of financial statements. You will create a database to store transaction-level data for a fictitious company and then compute some common accounting metrics like revenue and cost of goods sold. Within the database, you will create separate tables to store customer information and customers’ orders. You will also create a table to store information about the company’s products. Finally, you will retrieve data from these tables, merge that data, and transform it into useful numbers like revenue or cost of goods sold.
 
 ## Learning Objectives
- * Learn how transaction-level accounting data should be stored.
- * Gain experience with the design of relational databases.
- * Write basic SQL queries to create tables, retrieve data from one table, merge data from multiple tables, aggregate and filter data from one or more tables.
- * Integrate database skills with Python skills by using the SQLite and Pandas packages.
- * Take the perspective of a preparer of financial statements. Retrieve, aggregate, and report financial statement line items that are created from transaction-level data.
+ * Design and create a database for relational data.
+    - Write basic SQL to create tables.
+    - Learn how data should be stored to reduce or eliminate redundancy.
+    - Learn how transaction-level accounting data should be stored.
+* Design and create a database from the perspective of a user of financial reporting.
+    - Extract information from a database for financial reporting.
+        * Retrieve data from one table.
+        * Merge data from multiple tables.
+        * Aggregate and filter data from one or more tables.
+    - Compute financial statement line items from transaction-level data.
+* Integrate database skills with Python skills by using the SQLite and Pandas packages.
+
 
 ## Author Information
 Vic Anand, Ph.D.  
